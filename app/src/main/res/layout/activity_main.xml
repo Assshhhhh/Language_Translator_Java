@@ -105,7 +105,7 @@
         app:tint="@color/yellow"
         android:src="@drawable/mic"
         android:layout_gravity="center"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         />
 
     <TextView
